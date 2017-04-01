@@ -1,0 +1,7 @@
+node_modules/*
+*.log
+typings/*
+.vscode/*
+.idea/*
+/coverage
+/app/coverage
